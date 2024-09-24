@@ -3,7 +3,7 @@
 
 
 *Description*
-A simple e-commerce website built with HTML, CSS, and JavaScript, showcasing my skills as a web developer.
+e-commerce website built with HTML, CSS, and JavaScript, showcasing my skills as a web developer.
 
 
 *Technologies Used*
